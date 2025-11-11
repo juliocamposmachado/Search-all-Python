@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Ferramenta Search All Python — Buscador de rastros digitais antigos (domínios, e-mails e nomes) com interface Flask.">
+  <title>Search All Python — Ferramenta de Rastros Digitais</title>
+  <link rel="icon" href="https://raw.githubusercontent.com/juliocamposmachado/Search-all-Python/main/icon.png">
+  <style>
+    :root {
+      --bg: #0b0c10;
+      --fg: #eaeaea;
+      --accent: #00c896;
+      --card: #14171a;
+      --border: #2c2f33;
+      --shadow: 0 0 12px rgba(0, 0, 0, 0.3);
+    }
+    body {
+      background: var(--bg);
+      color: var(--fg);
+      font-family: "Segoe UI", Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(135deg, #00c896, #009f7f);
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.4rem;
+    }
+    header p {
+      margin: 8px 0 0;
+      font-size: 1.1rem;
+    }
+    main {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+    }
+    section {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      box-shadow: var(--shadow);
+      margin-bottom: 30px;
+      padding: 25px;
+    }
+    h2 {
+      color: var(--accent);
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 6px;
+    }
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    pre {
+      background: #1c1f23;
+      color: #9ae6b4;
+      padding: 12px;
+      border-radius: 6px;
+      overflow-x: auto;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      color: #888;
+      font-size: 0.9rem;
+      border-top: 1px solid #222;
+    }
+    .button {
+      background: var(--accent);
+      color: #fff;
+      padding: 10px 18px;
+      border-radius: 6px;
+      display: inline-block;
+      margin-top: 10px;
+      font-weight: bold;
+    }
+    .button:hover {
+      background: #00b589;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🔍 Search All Python</h1>
+    <p>Ferramenta livre para rastrear vestígios digitais de sites, nomes e e-mails antigos.</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>💡 O que é o Search All Python?</h2>
+      <p>
+        O <strong>Search All Python</strong> é um projeto open source criado para localizar rastros digitais de domínios, e-mails e nomes pessoais em fontes públicas como:
+      </p>
+      <ul>
+        <li><strong>Archive.org (Wayback Machine)</strong></li>
+        <li><strong>crt.sh</strong> (banco de certificados SSL)</li>
+        <li><strong>Oocities / Geocities Mirrors</strong></li>
+        <li><strong>WHOIS</strong> (informações de registro de domínio)</li>
+      </ul>
+      <p>Desenvolvido em <strong>Python + Flask</strong>, é uma ferramenta voltada para pesquisa histórica, forense e jornalística.</p>
+      <a class="button" href="https://github.com/juliocamposmachado/Search-all-Python" target="_blank">🔗 Acessar Repositório no GitHub</a>
+    </section>
+
+    <section>
+      <h2>⚙️ Como usar localmente</h2>
+      <p>Para executar o projeto em sua máquina, siga os passos:</p>
+      <pre>
+git clone https://github.com/juliocamposmachado/Search-all-Python.git
+cd Search-all-Python
+python -m venv venv
+venv\Scripts\activate
+pip install flask requests beautifulsoup4 python-whois
+python finder_web_ui.py
+      </pre>
+      <p>Depois, abra o navegador em: <code>http://127.0.0.1:5000</code></p>
+    </section>
+
+    <section>
+      <h2>🌐 Publicando no Vercel</h2>
+      <p>O projeto pode ser facilmente publicado no <strong>Vercel</strong>. Basta:</p>
+      <ol>
+        <li>Conectar seu repositório <a href="https://github.com/juliocamposmachado/Search-all-Python" target="_blank">Search-all-Python</a> à Vercel.</li>
+        <li>Definir o arquivo inicial como <code>index.html</code>.</li>
+        <li>Deploy automático será feito em segundos.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>🧠 Créditos e Objetivo</h2>
+      <p>
+        Desenvolvido por <strong>Desembargador Julio Campos Machado</strong>, o projeto integra inteligência digital aplicada à recuperação de registros históricos da web.  
+        O objetivo é auxiliar na análise de dados antigos, memória digital e rastreamento de fontes perdidas na internet discada.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    © 2025 Search All Python — Criado por Julio Campos Machado |
+    <a href="https://github.com/juliocamposmachado/Search-all-Python" target="_blank">GitHub</a>
+  </footer>
+</body>
+</html>
