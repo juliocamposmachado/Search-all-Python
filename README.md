@@ -8,6 +8,11 @@ Com ele, é possível **reviver a história digital de domínios, e-mails e iden
 ---
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/d666863b-0617-4483-8b90-d18d15a2ea9b" />
 
+## Correçoes
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/0f89db30-40c5-48ba-8604-9f7892228521" />
+
+
 ## 🧠 Sobre o Criador
 
 Sou **Julio Campos Machado**, programador **Full Stack** na **Like Look Solutions**, especialista em **Python** e **inteligência artificial aplicada**.  
