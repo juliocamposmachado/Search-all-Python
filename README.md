@@ -10,8 +10,7 @@ Com ele, é possível **reviver a história digital de domínios, e-mails e iden
 
 ## Correçoes
 
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/0f89db30-40c5-48ba-8604-9f7892228521" />
-
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/ee600ba0-7e71-4e2a-ba16-edb67b5b5edc" />
 
 ## 🧠 Sobre o Criador
 
