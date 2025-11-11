@@ -55,3 +55,6 @@ pip install -r requirements.txt
 
 # Inicie o servidor local
 python app.py
+
+# Gerar relatorio
+python report_viewer.py
