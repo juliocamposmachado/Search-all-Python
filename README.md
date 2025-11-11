@@ -6,8 +6,11 @@ O **Search All Python** é uma ferramenta **open source** desenvolvida para loca
 Com ele, é possível **reviver a história digital de domínios, e-mails e identidades online**, unindo **ciência de dados**, **automação inteligente** e **análise forense** em uma interface simples e poderosa.
 
 ---
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/d666863b-0617-4483-8b90-d18d15a2ea9b" />
 
-<img width="1359" height="767" alt="image" src="https://github.com/user-attachments/assets/80630900-0b33-4c1a-9311-29c10b86918c" />
+## Correçoes
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/ee600ba0-7e71-4e2a-ba16-edb67b5b5edc" />
 
 ## 🧠 Sobre o Criador
 

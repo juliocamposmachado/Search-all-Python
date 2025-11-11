@@ -4204,18 +4204,6 @@
         "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
         "common_name": "dama--junior.cassidyskyephoto.com",
         "name_value": "dama--junior.cassidyskyephoto.com\nwww.dama--junior.cassidyskyephoto.com",
-        "id": 19838593594,
-        "entry_timestamp": "2025-07-22T18:32:57.173",
-        "not_before": "2025-07-22T17:34:24",
-        "not_after": "2025-10-20T17:34:23",
-        "serial_number": "06b67c1b47e10f180ed83150e379470b5f31",
-        "result_count": 3
-      },
-      {
-        "issuer_ca_id": 295815,
-        "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-        "common_name": "dama--junior.cassidyskyephoto.com",
-        "name_value": "dama--junior.cassidyskyephoto.com\nwww.dama--junior.cassidyskyephoto.com",
         "id": 19838627100,
         "entry_timestamp": "2025-07-22T18:32:54.892",
         "not_before": "2025-07-22T17:34:24",
@@ -4236,42 +4224,6 @@
         "result_count": 3
       },
       {
-        "issuer_ca_id": 904,
-        "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-        "common_name": "sonria.com.co",
-        "name_value": "Inversiones Dama Salud SAS",
-        "id": 19575569662,
-        "entry_timestamp": "2025-07-10T16:50:22.215",
-        "not_before": "2025-07-10T16:50:21",
-        "not_after": "2026-07-12T20:42:41",
-        "serial_number": "31460170723da0b8",
-        "result_count": 1
-      },
-      {
-        "issuer_ca_id": 904,
-        "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-        "common_name": "sonria.com.co",
-        "name_value": "Inversiones Dama Salud SAS",
-        "id": 18942391759,
-        "entry_timestamp": "2025-06-10T20:42:43.15",
-        "not_before": "2025-06-10T20:42:41",
-        "not_after": "2026-07-12T20:42:41",
-        "serial_number": "7e02b0f5fb7842",
-        "result_count": 1
-      },
-      {
-        "issuer_ca_id": 295815,
-        "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-        "common_name": "dama--junior.cassidyskyephoto.com",
-        "name_value": "dama--junior.cassidyskyephoto.com\nwww.dama--junior.cassidyskyephoto.com",
-        "id": 18592360099,
-        "entry_timestamp": "2025-05-24T08:05:01.933",
-        "not_before": "2025-05-24T07:06:27",
-        "not_after": "2025-08-22T07:06:26",
-        "serial_number": "05bcf5ffe5eff6f72a51f57f5612d9d77b5c",
-        "result_count": 3
-      },
-      {
         "issuer_ca_id": 295815,
         "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
         "common_name": "dama--junior.cassidyskyephoto.com",
@@ -4288,36 +4240,12 @@
         "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
         "common_name": "dama--junior--1.cassidyskyephoto.com",
         "name_value": "dama--junior--1.cassidyskyephoto.com\nwww.dama--junior--1.cassidyskyephoto.com",
-        "id": 18590465483,
-        "entry_timestamp": "2025-05-24T05:42:21.492",
-        "not_before": "2025-05-24T04:43:50",
-        "not_after": "2025-08-22T04:43:49",
-        "serial_number": "06085cdb974c539a3bd87a62880211898310",
-        "result_count": 3
-      },
-      {
-        "issuer_ca_id": 295815,
-        "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-        "common_name": "dama--junior--1.cassidyskyephoto.com",
-        "name_value": "dama--junior--1.cassidyskyephoto.com\nwww.dama--junior--1.cassidyskyephoto.com",
         "id": 18590465769,
         "entry_timestamp": "2025-05-24T05:42:21.138",
         "not_before": "2025-05-24T04:43:50",
         "not_after": "2025-08-22T04:43:49",
         "serial_number": "06085cdb974c539a3bd87a62880211898310",
         "result_count": 3
-      },
-      {
-        "issuer_ca_id": 904,
-        "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-        "common_name": "sonria.com.co",
-        "name_value": "Inversiones Dama Salud SAS",
-        "id": 17979911792,
-        "entry_timestamp": "2025-04-21T15:43:40.43",
-        "not_before": "2024-06-08T13:30:03",
-        "not_after": "2025-07-10T13:30:03",
-        "serial_number": "43d9dae7b47cdd64",
-        "result_count": 1
       },
       {
         "issuer_ca_id": 286242,
@@ -4329,18 +4257,6 @@
         "not_before": "2025-03-26T04:09:17",
         "not_after": "2025-06-24T04:09:16",
         "serial_number": "21dba31e66c7a5ff119246eab6bf2f41",
-        "result_count": 3
-      },
-      {
-        "issuer_ca_id": 295814,
-        "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-        "common_name": "dama--junior--1.cassidyskyephoto.com",
-        "name_value": "dama--junior--1.cassidyskyephoto.com\nwww.dama--junior--1.cassidyskyephoto.com",
-        "id": 17485393660,
-        "entry_timestamp": "2025-03-25T07:52:41.956",
-        "not_before": "2025-03-25T06:54:11",
-        "not_after": "2025-06-23T06:54:10",
-        "serial_number": "051e3feba92d38849bed39c0eb63ed146ca7",
         "result_count": 3
       },
       {
@@ -4360,35 +4276,11 @@
         "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
         "common_name": "dama--junior.cassidyskyephoto.com",
         "name_value": "dama--junior.cassidyskyephoto.com\nwww.dama--junior.cassidyskyephoto.com",
-        "id": 16410869378,
-        "entry_timestamp": "2025-01-25T18:10:15.078",
-        "not_before": "2025-01-25T17:11:44",
-        "not_after": "2025-04-25T17:11:43",
-        "serial_number": "040d59bfa77b01ae43683029521c5cf4d3df",
-        "result_count": 3
-      },
-      {
-        "issuer_ca_id": 295814,
-        "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-        "common_name": "dama--junior.cassidyskyephoto.com",
-        "name_value": "dama--junior.cassidyskyephoto.com\nwww.dama--junior.cassidyskyephoto.com",
         "id": 16411067095,
         "entry_timestamp": "2025-01-25T18:10:14.81",
         "not_before": "2025-01-25T17:11:44",
         "not_after": "2025-04-25T17:11:43",
         "serial_number": "040d59bfa77b01ae43683029521c5cf4d3df",
-        "result_count": 3
-      },
-      {
-        "issuer_ca_id": 295815,
-        "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-        "common_name": "dama--junior--1.cassidyskyephoto.com",
-        "name_value": "dama--junior--1.cassidyskyephoto.com\nwww.dama--junior--1.cassidyskyephoto.com",
-        "id": 16407658490,
-        "entry_timestamp": "2025-01-24T23:41:43.97",
-        "not_before": "2025-01-24T22:43:13",
-        "not_after": "2025-04-24T22:43:12",
-        "serial_number": "039674dcf373c6a1b10c1fa140450e135178",
         "result_count": 3
       },
       {
@@ -4425,18 +4317,6 @@
         "not_before": "2024-11-26T23:40:56",
         "not_after": "2025-02-24T23:40:55",
         "serial_number": "009cb0ea0e0afdba840e314c10ad2a1d4a",
-        "result_count": 3
-      },
-      {
-        "issuer_ca_id": 295814,
-        "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-        "common_name": "dama--junior--1.cassidyskyephoto.com",
-        "name_value": "dama--junior--1.cassidyskyephoto.com\nwww.dama--junior--1.cassidyskyephoto.com",
-        "id": 15510617549,
-        "entry_timestamp": "2024-11-26T07:52:54.768",
-        "not_before": "2024-11-26T06:54:24",
-        "not_after": "2025-02-24T06:54:23",
-        "serial_number": "03b448a9944f664eb751e1d79f5e4323fb3d",
         "result_count": 3
       },
       {
@@ -4492,18 +4372,6 @@
         "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
         "common_name": "dama--junior--1.cassidyskyephoto.com",
         "name_value": "dama--junior--1.cassidyskyephoto.com\nwww.dama--junior--1.cassidyskyephoto.com",
-        "id": 13684897740,
-        "entry_timestamp": "2024-07-08T02:53:14.1",
-        "not_before": "2024-07-08T01:53:13",
-        "not_after": "2024-10-06T01:53:12",
-        "serial_number": "033217db9a69a53c2b54fd02293971802e05",
-        "result_count": 3
-      },
-      {
-        "issuer_ca_id": 295814,
-        "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-        "common_name": "dama--junior--1.cassidyskyephoto.com",
-        "name_value": "dama--junior--1.cassidyskyephoto.com\nwww.dama--junior--1.cassidyskyephoto.com",
         "id": 13666804814,
         "entry_timestamp": "2024-07-08T02:53:13.907",
         "not_before": "2024-07-08T01:53:13",
@@ -4522,30 +4390,6 @@
         "not_after": "2025-07-04T23:59:59",
         "serial_number": "085809b512c4dcbdbd5bf8c4fac04635",
         "result_count": 2
-      },
-      {
-        "issuer_ca_id": 904,
-        "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-        "common_name": "sonria.com.co",
-        "name_value": "Inversiones Dama Salud SAS",
-        "id": 13324687031,
-        "entry_timestamp": "2024-06-08T13:30:35.372",
-        "not_before": "2024-06-08T13:30:03",
-        "not_after": "2025-07-10T13:30:03",
-        "serial_number": "43d9dae7b47cdd64",
-        "result_count": 1
-      },
-      {
-        "issuer_ca_id": 904,
-        "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-        "common_name": "sonria.com.co",
-        "name_value": "Inversiones Dama Salud SAS",
-        "id": 13134955041,
-        "entry_timestamp": "2024-05-21T16:09:59.245",
-        "not_before": "2024-05-21T16:09:58",
-        "not_after": "2024-07-18T22:17:50",
-        "serial_number": "00cf8f3189f71db644",
-        "result_count": 1
       },
       {
         "issuer_ca_id": 183267,
@@ -4762,18 +4606,6 @@
         "not_after": "2023-09-29T13:10:53",
         "serial_number": "04265655df90fe46e1cd7c40b03521990632",
         "result_count": 3
-      },
-      {
-        "issuer_ca_id": 904,
-        "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-        "common_name": "sonria.com.co",
-        "name_value": "Inversiones Dama Salud SAS",
-        "id": 9431771579,
-        "entry_timestamp": "2023-05-19T22:36:22.215",
-        "not_before": "2023-05-19T22:35:45",
-        "not_after": "2024-06-19T22:35:45",
-        "serial_number": "00e78b450528973c58",
-        "result_count": 1
       },
       {
         "issuer_ca_id": 183267,
@@ -5136,18 +4968,6 @@
         "result_count": 3
       },
       {
-        "issuer_ca_id": 904,
-        "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-        "common_name": "sonria.com.co",
-        "name_value": "Inversiones Dama Salud SAS",
-        "id": 6934891260,
-        "entry_timestamp": "2022-06-14T19:37:02.47",
-        "not_before": "2022-06-14T19:37:01",
-        "not_after": "2023-07-16T19:37:01",
-        "serial_number": "009b254e891f0a8631",
-        "result_count": 1
-      },
-      {
         "issuer_ca_id": 105493,
         "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
         "common_name": "dama--junior--1.cassidyskyephoto.com",
@@ -5496,18 +5316,6 @@
         "result_count": 3
       },
       {
-        "issuer_ca_id": 904,
-        "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-        "common_name": "sonria.com.co",
-        "name_value": "Inversiones Dama Salud SAS",
-        "id": 4554281449,
-        "entry_timestamp": "2021-05-19T13:03:48.111",
-        "not_before": "2021-05-19T13:03:45",
-        "not_after": "2022-06-20T13:03:45",
-        "serial_number": "0095e2c6afa4eca397",
-        "result_count": 1
-      },
-      {
         "issuer_ca_id": 105493,
         "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
         "common_name": "dama--junior.cassidyskyephoto.com",
@@ -5832,18 +5640,6 @@
         "result_count": 3
       },
       {
-        "issuer_ca_id": 904,
-        "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-        "common_name": "sonria.com.co",
-        "name_value": "Inversiones Dama Salud SAS",
-        "id": 3118498001,
-        "entry_timestamp": "2020-07-21T11:50:04.998",
-        "not_before": "2020-05-19T14:44:20",
-        "not_after": "2021-07-18T22:17:50",
-        "serial_number": "00878e288f019fce2c",
-        "result_count": 1
-      },
-      {
         "issuer_ca_id": 105493,
         "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
         "common_name": "dama--junior.cassidyskyephoto.com",
@@ -5902,18 +5698,6 @@
         "not_after": "2021-05-12T12:00:00",
         "serial_number": "0d47fec9fc876351e6098a2bf224abc2",
         "result_count": 4
-      },
-      {
-        "issuer_ca_id": 904,
-        "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-        "common_name": "sonria.com.co",
-        "name_value": "Inversiones Dama Salud SAS",
-        "id": 2829928232,
-        "entry_timestamp": "2020-05-19T14:44:35.485",
-        "not_before": "2020-05-19T14:44:20",
-        "not_after": "2021-07-18T22:17:50",
-        "serial_number": "00878e288f019fce2c",
-        "result_count": 1
       },
       {
         "issuer_ca_id": 16418,
@@ -7356,42 +7140,6 @@
         "result_count": 4
       },
       {
-        "issuer_ca_id": 904,
-        "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-        "common_name": "sonria.com.co",
-        "name_value": "Inversiones Dama Salud SAS",
-        "id": 1732575211,
-        "entry_timestamp": "2019-08-02T12:37:14.94",
-        "not_before": "2019-07-22T19:18:00",
-        "not_after": "2020-07-18T22:17:50",
-        "serial_number": "0ccf6821255eecd5",
-        "result_count": 1
-      },
-      {
-        "issuer_ca_id": 904,
-        "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-        "common_name": "sonria.com.co",
-        "name_value": "Inversiones Dama Salud SAS",
-        "id": 1696740035,
-        "entry_timestamp": "2019-07-22T19:18:01.877",
-        "not_before": "2019-07-22T19:18:00",
-        "not_after": "2020-07-18T22:17:50",
-        "serial_number": "0ccf6821255eecd5",
-        "result_count": 1
-      },
-      {
-        "issuer_ca_id": 904,
-        "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-        "common_name": "sonria.com.co",
-        "name_value": "Inversiones Dama Salud SAS",
-        "id": 1682533152,
-        "entry_timestamp": "2019-07-18T22:17:50.795",
-        "not_before": "2019-07-18T22:17:50",
-        "not_after": "2020-07-18T22:17:50",
-        "serial_number": "0ad3c5263e8c7252",
-        "result_count": 1
-      },
-      {
         "issuer_ca_id": 62148,
         "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust RSA CA 2018",
         "common_name": "www.paulshark.it",
@@ -8008,13 +7756,13 @@
     "damaacessorios": []
   },
   "whois": {
-    "ferrana.com.br": "whois failed: [WinError 2] O sistema não pode encontrar o arquivo especificado",
-    "ferranaacessorios.com.br": "whois failed: [WinError 2] O sistema não pode encontrar o arquivo especificado",
-    "ferranaacessorios.com": "whois failed: [WinError 2] O sistema não pode encontrar o arquivo especificado",
-    "ferrana-acessorios.com.br": "whois failed: [WinError 2] O sistema não pode encontrar o arquivo especificado",
-    "damabolsas.com.br": "whois failed: [WinError 2] O sistema não pode encontrar o arquivo especificado",
-    "damabolsas.com": "whois failed: [WinError 2] O sistema não pode encontrar o arquivo especificado",
-    "damaacessorios.com.br": "whois failed: [WinError 2] O sistema não pode encontrar o arquivo especificado",
-    "damaacessorio.com.br": "whois failed: [WinError 2] O sistema não pode encontrar o arquivo especificado"
+    "ferrana.com.br": "❌ WHOIS não disponível neste sistema.",
+    "ferranaacessorios.com.br": "❌ WHOIS não disponível neste sistema.",
+    "ferranaacessorios.com": "❌ WHOIS não disponível neste sistema.",
+    "ferrana-acessorios.com.br": "❌ WHOIS não disponível neste sistema.",
+    "damabolsas.com.br": "❌ WHOIS não disponível neste sistema.",
+    "damabolsas.com": "❌ WHOIS não disponível neste sistema.",
+    "damaacessorios.com.br": "❌ WHOIS não disponível neste sistema.",
+    "damaacessorio.com.br": "❌ WHOIS não disponível neste sistema."
   }
 }

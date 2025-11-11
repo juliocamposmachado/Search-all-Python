@@ -1,0 +1,5 @@
+requests==2.32.3
+python-whois==0.9.5
+beautifulsoup4==4.12.3
+flask==3.0.3
+urllib3==2.2.3
